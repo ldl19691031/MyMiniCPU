@@ -1,6 +1,8 @@
 # My Mini CPU
 
+[English](https://github.com/ldl19691031/MyMiniCPU/blob/master/README-en.md)
 
+[日本語](https://github.com/ldl19691031/MyMiniCPU/blob/master/README-jp.md)
 
 这是我的一个个人项目，用于展示一个基于FPGA开发的、能且只能够打印'Hello world'的CPU。
 
