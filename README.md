@@ -1,4 +1,9 @@
-# My Mini CPU
+
+<p align="center">
+  <h1 align="center">My Mini CPU</h1>
+  <h3 align="center">From custom assembly language to custom CPU</h3>
+</p>
+
 
 [English](https://github.com/ldl19691031/MyMiniCPU/blob/master/README-en.md)
 
